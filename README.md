@@ -1,2 +1,2 @@
 # Golang-Studying
-Study
+go version go1.16.5 windows/amd64
